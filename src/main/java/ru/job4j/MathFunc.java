@@ -12,9 +12,9 @@ public class MathFunc {
     }
 
     public static void main(String[] args) {
-        int result1 = MathFunc.func1(100);
+        int result3 = MathFunc.func1(100);
         int result2 = MathFunc.func2(5);
-        int total = result1 + result2;
+        int total = result3 + result2;
         System.out.println(total);
     }
 }
