@@ -8,9 +8,9 @@ public class Point {
         double first = Math.pow(x, 2);
         double two = Math.pow(y, 2);
         double firstPlusTwo = first + two;
-        double resault = Math.sqrt(firstPlusTwo);
-        System.out.println(resault);
-        return resault;
+        double result = Math.sqrt(firstPlusTwo);
+        System.out.println(result);
+        return result;
     }
 
     public static void main(String[] args) {
