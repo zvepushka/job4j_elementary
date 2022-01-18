@@ -1,4 +1,4 @@
-package ru.job4j.ru.job4j.convert;
+package ru.job4j.convert;
 
 public class Converter {
 
