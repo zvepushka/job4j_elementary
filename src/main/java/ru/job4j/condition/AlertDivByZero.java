@@ -12,9 +12,7 @@ public class AlertDivByZero {
         }
 
         if (number < 0) {
-            return;
+            System.out.println("This is negative number.");
         }
-        System.out.println("This is negative number.");
     }
-        }
-
+}
