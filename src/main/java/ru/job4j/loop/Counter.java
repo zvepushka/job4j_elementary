@@ -16,10 +16,10 @@ public class Counter {
                 sum = sum + index;
             }
         }
-            return sum;
-        }
+        return sum;
+    }
 
-        public static void main(String[] args) {
+        public static void main(String[]args) {
             System.out.println(sum(0, 10));
             System.out.println(sum(3, 8));
             System.out.println(sum(1, 1));
@@ -27,5 +27,5 @@ public class Counter {
             System.out.println(sumByEven(0, 10));
             System.out.println(sumByEven(3, 8));
             System.out.println(sumByEven(1, 1));
-        }
+    }
 }
